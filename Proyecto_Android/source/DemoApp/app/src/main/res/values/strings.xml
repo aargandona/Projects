@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android Project</string>
+    <string name="lbl_userName">Username</string>
+    <string name="lbl_password">Password</string>
+    <string name="btn_Login">Login</string>
+    <string name="lbl_welcome">Posts</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_new_post">New Post</string>
+    <string name="lbl_title">Title</string>
+    <string name="lbl_content">Content</string>
+    <string name="btn_save">Save</string>
+    <string name="lbl_users">Users</string>
+    <string name="title_postInfo">Post Info</string>
+    <string name="lbl_postDate">Post Date:</string>
+    <string name="lbl_userInfo">Username:</string>
+</resources>
